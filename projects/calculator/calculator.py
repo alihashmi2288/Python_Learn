@@ -2,6 +2,9 @@
 Simple Calculator Project
 ========================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 A command-line calculator demonstrating functions, error handling, and user interaction.
 Features: basic operations, memory functions, and history tracking.
 """

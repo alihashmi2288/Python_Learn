@@ -2,6 +2,9 @@
 Todo List Application
 ====================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 A command-line todo application demonstrating file operations, classes, and data persistence.
 Features: add/remove tasks, mark complete, save/load from file, priority levels.
 """

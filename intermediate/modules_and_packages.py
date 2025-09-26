@@ -2,6 +2,9 @@
 Python Modules and Packages
 ============================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates Python's module system for organizing and reusing code.
 Learn about imports, creating modules, packages, and distribution.
 """

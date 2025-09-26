@@ -2,6 +2,9 @@
 Python Concurrency
 ==================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates concurrent programming in Python using threading,
 multiprocessing, and asyncio for parallel and asynchronous execution.
 """

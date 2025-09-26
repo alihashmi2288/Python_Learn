@@ -1,5 +1,8 @@
 # Python Learning Repository 🐍
 
+**Created by: Syed Ali Hashmi**  
+**LinkedIn: [https://www.linkedin.com/in/hashmiali2288](https://www.linkedin.com/in/hashmiali2288)**
+
 A comprehensive Python learning resource with practical examples, clear explanations, and hands-on projects.
 
 ## 📚 Repository Structure

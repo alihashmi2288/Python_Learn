@@ -2,6 +2,9 @@
 Python Error Handling (Exception Handling)
 ==========================================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates Python's error handling mechanisms using try/except/finally.
 Learn about different exception types, custom exceptions, and best practices.
 """

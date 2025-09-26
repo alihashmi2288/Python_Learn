@@ -2,6 +2,9 @@
 Python Generators and Iterators
 ===============================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates generators and iterators for memory-efficient data processing.
 Learn about yield, generator expressions, and the iterator protocol.
 """

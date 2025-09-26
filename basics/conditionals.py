@@ -2,6 +2,9 @@
 Python Conditionals (if, elif, else)
 ====================================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates Python conditional statements for decision-making in programs.
 Learn about if/elif/else, comparison operators, logical operators, and advanced patterns.
 """

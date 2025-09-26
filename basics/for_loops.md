@@ -1,5 +1,8 @@
 # For Loops in Python
 
+**Created by: Syed Ali Hashmi**  
+**LinkedIn: [https://www.linkedin.com/in/hashmiali2288](https://www.linkedin.com/in/hashmiali2288)**
+
 ## Overview
 For loops in Python are used to iterate over sequences (lists, tuples, strings) and other iterable objects. They provide a clean and efficient way to repeat operations.
 

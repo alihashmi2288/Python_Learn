@@ -2,6 +2,9 @@
 Python Performance Optimization
 ===============================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates performance optimization techniques, profiling,
 and best practices for writing efficient Python code.
 """

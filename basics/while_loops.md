@@ -1,5 +1,8 @@
 # While Loops in Python
 
+**Created by: Syed Ali Hashmi**  
+**LinkedIn: [https://www.linkedin.com/in/hashmiali2288](https://www.linkedin.com/in/hashmiali2288)**
+
 ## Overview
 While loops execute a block of code repeatedly as long as a condition remains true. They're useful when you don't know in advance how many iterations you need.
 

@@ -1,5 +1,8 @@
 # Python Learning Repository - Complete Index
 
+**Created by: Syed Ali Hashmi**  
+**LinkedIn: [https://www.linkedin.com/in/hashmiali2288](https://www.linkedin.com/in/hashmiali2288)**
+
 ## 📚 Learning Path Overview
 
 This repository is structured to take you from Python beginner to advanced practitioner. Follow the recommended path or jump to specific topics based on your needs.
@@ -33,6 +36,7 @@ This repository is structured to take you from Python beginner to advanced pract
 Python learn/
 ├── README.md                    # Repository overview
 ├── INDEX.md                     # This comprehensive index
+├── QUICK_START.md               # 5-minute getting started guide
 │
 ├── basics/                      # Fundamental Python concepts
 │   ├── variables_and_datatypes.py

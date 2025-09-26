@@ -1,5 +1,8 @@
 # Python Quick Reference Cheat Sheet
 
+**Created by: Syed Ali Hashmi**  
+**LinkedIn: [https://www.linkedin.com/in/hashmiali2288](https://www.linkedin.com/in/hashmiali2288)**
+
 ## 📋 Basic Syntax
 
 ### Variables and Data Types

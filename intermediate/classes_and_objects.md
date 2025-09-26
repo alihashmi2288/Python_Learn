@@ -1,5 +1,8 @@
 # Classes and Objects in Python
 
+**Created by: Syed Ali Hashmi**  
+**LinkedIn: [https://www.linkedin.com/in/hashmiali2288](https://www.linkedin.com/in/hashmiali2288)**
+
 ## Overview
 Object-Oriented Programming (OOP) is a programming paradigm that organizes code into classes and objects. Python supports OOP with classes, inheritance, encapsulation, and polymorphism.
 

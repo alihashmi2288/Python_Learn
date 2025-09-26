@@ -2,6 +2,9 @@
 Python Decorators
 =================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates Python decorators - functions that modify other functions.
 Learn about function decorators, class decorators, and built-in decorators.
 """

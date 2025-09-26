@@ -1,5 +1,8 @@
 # Python Learning Repository - Quick Start Guide 🚀
 
+**Created by: Syed Ali Hashmi**  
+**LinkedIn: [https://www.linkedin.com/in/hashmiali2288](https://www.linkedin.com/in/hashmiali2288)**
+
 ## 🎯 Get Started in 5 Minutes
 
 ### Step 1: Choose Your Learning Path

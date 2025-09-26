@@ -1,5 +1,8 @@
 # Python Best Practices
 
+**Created by: Syed Ali Hashmi**  
+**LinkedIn: [https://www.linkedin.com/in/hashmiali2288](https://www.linkedin.com/in/hashmiali2288)**
+
 ## Code Style and Formatting
 
 ### PEP 8 Guidelines

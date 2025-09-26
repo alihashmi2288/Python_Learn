@@ -2,6 +2,9 @@
 Web Scraper Project
 ==================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 A web scraping application demonstrating HTTP requests, HTML parsing,
 data extraction, and file operations.
 """

@@ -2,6 +2,9 @@
 Python Functions
 ================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates Python functions - reusable blocks of code that perform specific tasks.
 Learn about function definition, parameters, return values, scope, and advanced concepts.
 """

@@ -1,5 +1,8 @@
 # Conditionals in Python
 
+**Created by: Syed Ali Hashmi**  
+**LinkedIn: [https://www.linkedin.com/in/hashmiali2288](https://www.linkedin.com/in/hashmiali2288)**
+
 ## Overview
 Conditional statements allow programs to make decisions and execute different code paths based on conditions. Python uses `if`, `elif`, and `else` statements for control flow.
 

@@ -2,6 +2,9 @@
 Python Context Managers
 =======================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates context managers for resource management and cleanup.
 Learn about the 'with' statement, __enter__/__exit__ methods, and contextlib.
 """

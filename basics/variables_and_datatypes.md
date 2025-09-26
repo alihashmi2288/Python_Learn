@@ -1,5 +1,8 @@
 # Variables and Data Types in Python
 
+**Created by: Syed Ali Hashmi**  
+**LinkedIn: [https://www.linkedin.com/in/hashmiali2288](https://www.linkedin.com/in/hashmiali2288)**
+
 ## Overview
 Python is a dynamically typed language, meaning you don't need to declare variable types explicitly. This guide covers all the fundamental data types and how to work with them.
 

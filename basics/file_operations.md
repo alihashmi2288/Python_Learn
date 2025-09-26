@@ -1,5 +1,8 @@
 # File Operations in Python
 
+**Created by: Syed Ali Hashmi**  
+**LinkedIn: [https://www.linkedin.com/in/hashmiali2288](https://www.linkedin.com/in/hashmiali2288)**
+
 ## Overview
 File operations allow programs to read from and write to files, enabling data persistence and interaction with external data sources.
 

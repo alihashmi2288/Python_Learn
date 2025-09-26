@@ -2,6 +2,9 @@
 Python File Operations
 ======================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates file handling in Python - reading, writing, and manipulating files.
 Learn about file modes, context managers, and best practices for file operations.
 """

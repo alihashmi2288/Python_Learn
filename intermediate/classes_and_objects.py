@@ -2,6 +2,9 @@
 Python Classes and Objects (Object-Oriented Programming)
 ========================================================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates Python's object-oriented programming features.
 Learn about classes, objects, inheritance, encapsulation, and polymorphism.
 """

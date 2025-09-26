@@ -2,6 +2,9 @@
 Python Metaclasses
 ==================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates metaclasses - classes that create classes.
 Learn about class creation, __new__, __init__, and metaprogramming.
 """

@@ -2,6 +2,9 @@
 Python For Loops
 ================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates Python for loops - iteration over sequences and iterables.
 Learn about basic loops, range(), enumerate(), zip(), and advanced iteration techniques.
 """

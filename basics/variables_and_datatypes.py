@@ -2,6 +2,9 @@
 Python Variables and Data Types
 ===============================
 
+Created by: Syed Ali Hashmi
+LinkedIn: https://www.linkedin.com/in/hashmiali2288
+
 This module demonstrates Python's core data types and variable handling.
 Learn about numbers, strings, booleans, lists, tuples, dictionaries, and sets.
 """
